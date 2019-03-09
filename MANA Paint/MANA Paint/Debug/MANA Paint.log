@@ -1,0 +1,7 @@
+﻿  BackBuffer.cpp
+  Paint.cpp
+c:\users\mahmoud\documents\github\manapaint\mana paint\mana paint\paint.cpp(271): warning C4018: '<': signed/unsigned mismatch
+c:\users\mahmoud\documents\github\manapaint\mana paint\mana paint\paint.cpp(524): warning C4018: '<': signed/unsigned mismatch
+  Shape.cpp
+  Generating Code...
+  MANA Paint.vcxproj -> C:\Users\Mahmoud\Documents\GitHub\MANAPaint\MANA Paint\Debug\MANA Paint.exe
